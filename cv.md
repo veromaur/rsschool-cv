@@ -1,21 +1,28 @@
-## Майрина Вероника Андреевна
-*Должность:* программист
-**Личная информация**
-*Город:* Гданьск
-*Дата рождения:* 26.01.1997
-*Пол:* Ж
-**Образование**
-*Учебное заведение:* МГЭИ им. А. Д. Сахарова БГУ
-**Опыт работы**
-*Организация:* Агенство "Лес"
-*Должность:* Маркетолог социальных сетей
-*Период работы:* С июня 2020 года по настоящий момент
-**Профессиональные навыки:** 
-- Настройка таргетированной рекламы.
-- Проработка стратегии и создание воронки
-продаж.
-- Аналитика.
-- Работа в графических редакторах:
-Figna, Сanva, Adobe Photoshop.
-*Языки:* русский (свободный), английский (А1), польский (А2).
+# Veronika Mairina
+
+## Junior Frontend Developer
+
+**Contact information:**
+*E-mail:* realjam2013@gmail.com
+*Telegram:* @veromaur
+
+## Briefly About Myself:
+I work as a social media marketer and do design. I like that my work is analytical and creative. I want to learn programming because I am closely intertwined with it in my work. I am interested in learning this profession and becoming an experienced Frontend Developer.
+
+## Skills and Proficiency:
+HTML5, CSS3
+JavaScript Basics
+Git, GitHub
+VS Code
+Adobe Photoshop, Figma
+
+## Education:
+WEB Developer 2022. courses Udemy
+
+## Languages:
+English - Elementary
+Russian - Native
+Polish-Basic
+
+
 
