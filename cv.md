@@ -1,4 +1,4 @@
-# Veronika Mairina
+# Veranika Mairyna
 
 ## Junior Frontend Developer
 
