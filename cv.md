@@ -22,7 +22,7 @@ I work as a social media marketer and do design. I like that my work is analytic
 ## Languages:
 - English - Elementary  
 - Russian - Native  
-- gPolish - Basic  
+- Polish - Basic  
 
 
 
